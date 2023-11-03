@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-458263fe","path":"/guide/operations.html","title":"运维工程师","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1699000055000,"contributors":[{"name":"zhangliang0115","email":"zhangliang0115@126.com","commits":1}]},"filePathRelative":"guide/operations.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-77db0e39","path":"/standard/","title":"目录规范","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1699000055000,"contributors":[{"name":"zhangliang0115","email":"zhangliang0115@126.com","commits":1}]},"filePathRelative":"standard/README.md"}');export{a as data};

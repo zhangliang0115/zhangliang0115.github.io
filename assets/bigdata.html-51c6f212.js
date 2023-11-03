@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as o}from"./app-b6485265.js";const r={},s=e("h1",{id:"大数据",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#大数据","aria-hidden":"true"},"#"),o(" 大数据")],-1),d=[s];function n(_,i){return t(),c("div",null,d)}const l=a(r,[["render",n],["__file","bigdata.html.vue"]]);export{l as default};

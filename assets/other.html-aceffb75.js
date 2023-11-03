@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as c}from"./app-b6485265.js";const s={},_=c("p",null,"elastic apm(链路调用) beans",-1),n=[_];function a(r,l){return t(),o("div",null,n)}const d=e(s,[["render",a],["__file","other.html.vue"]]);export{d as default};

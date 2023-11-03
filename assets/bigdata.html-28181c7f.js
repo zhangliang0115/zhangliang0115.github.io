@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4c32e55b","path":"/guide/bigdata.html","title":"大数据","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1699000055000,"contributors":[{"name":"zhangliang0115","email":"zhangliang0115@126.com","commits":1}]},"filePathRelative":"guide/bigdata.md"}');export{a as data};
